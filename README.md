@@ -37,5 +37,7 @@ The Birds Image Classifier Application is an Android app that leverages a Convol
 2. **Select Images**: Click on the "Select multiple photos" button to open the device's gallery and choose images.
 3. **View Results**: The app will classify the selected images and display the results along with the images.
 
-
 OR 
+
+1. Locate the apk file in the repository in the following path: `app\build\outputs\apk\debug\app-debug.apk"
+2. Install the apk file in your smartphone and run the application
